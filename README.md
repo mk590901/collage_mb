@@ -1,6 +1,6 @@
 # collage_mb
 
-A new Flutter project.
+This repository contains an optimized version of the Collage application. BlocBuilder<RefreshingBloc, RefreshingState> moved to ImageTile.
 
 ## Getting Started
 
